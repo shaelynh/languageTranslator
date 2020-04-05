@@ -17,11 +17,6 @@ namespace LanguageTranslator
             InitializeComponent();
         }
 
-        private void btnItailan_Click(object sender, EventArgs e)
-        {
-            lblTranslation.Text = "Buongiorno";
-            this.BackColor = Color.CornflowerBlue;
-        }
    
         private void btnSpanish_Click_1(object sender, EventArgs e)
         {
@@ -33,6 +28,12 @@ namespace LanguageTranslator
         {
             lblTranslation.Text = "Guten Morgan";
             this.BackColor = Color.Firebrick;
+        }
+
+        private void btnItailan_Click(object sender, EventArgs e)
+        {
+            lblTranslation.Text = "Buongiorno";
+            this.BackColor = Color.CornflowerBlue;
         }
     }
 }

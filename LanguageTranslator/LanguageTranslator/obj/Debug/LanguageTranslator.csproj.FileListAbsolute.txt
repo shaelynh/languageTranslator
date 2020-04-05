@@ -7,3 +7,4 @@ C:\Users\shael\Desktop\IntroProg\LanguageTranslator\LanguageTranslator\bin\Debug
 C:\Users\shael\Desktop\IntroProg\LanguageTranslator\LanguageTranslator\bin\Debug\LanguageTranslator.pdb
 C:\Users\shael\Desktop\IntroProg\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.exe
 C:\Users\shael\Desktop\IntroProg\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.pdb
+C:\Users\shael\Desktop\IntroProg\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.csprojAssemblyReference.cache

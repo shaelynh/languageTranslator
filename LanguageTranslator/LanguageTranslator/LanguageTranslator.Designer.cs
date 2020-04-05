@@ -61,7 +61,7 @@
             this.btnItailan.Name = "btnItailan";
             this.btnItailan.Size = new System.Drawing.Size(75, 23);
             this.btnItailan.TabIndex = 2;
-            this.btnItailan.Text = "Itailian";
+            this.btnItailan.Text = "Italian";
             this.btnItailan.UseVisualStyleBackColor = true;
             this.btnItailan.Click += new System.EventHandler(this.btnItailan_Click);
             // 
